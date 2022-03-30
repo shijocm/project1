@@ -1,2 +1,2 @@
 # project1
-ci]ontains html and css files
+contains html and css files
